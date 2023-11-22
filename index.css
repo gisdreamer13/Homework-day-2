@@ -1,0 +1,33 @@
+.add-flex{
+display: flex;
+text-align: center;
+justify-content: space-between;
+}
+
+.hero{
+    background-image: url(./theater-image-background.png);
+    height: 300px;
+    background-size: cover;
+}
+section{
+    width: 80%;
+    margin: auto;
+}
+
+body{
+    text-align: center;
+}
+
+nav{
+    background-color: black;
+    color: white;
+}
+h2{
+    color: white;
+    font-size: 30px;
+    padding-top: 15%;
+}
+
+button{
+    background: gold;
+}
